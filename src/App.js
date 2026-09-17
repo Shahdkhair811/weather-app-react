@@ -157,7 +157,7 @@ function WeatherIcon({ main, isDay }) {
   );
 }
 
-let cancelAxious = null;
+// let cancelAxious = null;
 
 function App() {
   const { t, i18n } = useTranslation();
@@ -194,9 +194,14 @@ function App() {
     setDateAndTime(moment().format('MMMM Do YYYY, h:mm:ss a'));
   }
 
+  // useEffect(() => {
+  //   i18n.changeLanguage(locale);
+  // }, []);
+
+
   useEffect(() => {
-    i18n.changeLanguage(locale);
-  }, []);
+  i18n.changeLanguage(locale);
+}, [i18n, locale]);
 
   useEffect(() => {
     setDateAndTime(moment().format('MMMM Do YYYY, h:mm:ss a'));
