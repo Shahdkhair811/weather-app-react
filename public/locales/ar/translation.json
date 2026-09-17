@@ -1,0 +1,48 @@
+
+{
+  "hello world": "أهلا بالعالم",
+
+  "min": "الصغرى",
+  "max": "الكبرى",
+
+  "clear sky": "سماء صافية",
+  "few clouds": "سحب قليلة",
+  "scattered clouds": "سحب متفرقة",
+  "broken clouds": "سحب متقطعة",
+  "overcast clouds": "غائم بالكامل",
+
+  "light rain": "أمطار خفيفة",
+  "moderate rain": "أمطار متوسطة",
+  "heavy intensity rain": "أمطار غزيرة",
+  "very heavy rain": "أمطار غزيرة جدًا",
+  "extreme rain": "أمطار شديدة",
+
+  "freezing rain": "أمطار متجمدة",
+
+  "light intensity shower rain": "زخات أمطار خفيفة",
+  "shower rain": "زخات أمطار",
+  "heavy intensity shower rain": "زخات أمطار غزيرة",
+
+  "thunderstorm": "عاصفة رعدية",
+  "thunderstorm with light rain": "عاصفة رعدية مع أمطار خفيفة",
+  "thunderstorm with rain": "عاصفة رعدية مع أمطار",
+  "thunderstorm with heavy rain": "عاصفة رعدية مع أمطار غزيرة",
+
+  "light snow": "ثلوج خفيفة",
+  "snow": "ثلوج",
+  "heavy snow": "ثلوج غزيرة",
+  "sleet": "مطر ثلجي",
+
+  "mist": "شبورة",
+  "smoke": "دخان",
+  "haze": "غشاوة",
+  "sand": "رمال",
+  "dust": "أتربة",
+  "fog": "ضباب",
+  "squalls": "عواصف مفاجئة",
+  "tornado": "إعصار" ,
+  "overcast": "غائم جزئي",
+  "Faiyum":"الفيوم"
+
+}
+

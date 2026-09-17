@@ -1,0 +1,31 @@
+const governorates = [
+  { name: "Faiyum", arabicName: "الفيوم", lat: 29.309949, lon: 30.841804 },
+  { name: "Cairo", arabicName: "القاهرة", lat: 30.062631, lon: 31.249666 },
+  { name: "Giza", arabicName: "الجيزة", lat: 30.009444, lon: 31.208611 },
+  { name: "Alexandria", arabicName: "الإسكندرية", lat: 31.201760, lon: 29.915820 },
+  { name: "Port Said", arabicName: "بورسعيد", lat: 31.265300, lon: 32.301900 },
+  { name: "Suez", arabicName: "السويس", lat: 29.973714, lon: 32.526267 },
+  { name: "Ismailia", arabicName: "الإسماعيلية", lat: 30.604272, lon: 32.272252 },
+  { name: "Damietta", arabicName: "دمياط", lat: 31.416477, lon: 31.813316 },
+  { name: "Dakahlia", arabicName: "الدقهلية", lat: 31.036373, lon: 31.380691 },
+  { name: "Sharqia", arabicName: "الشرقية", lat: 30.587676, lon: 31.501997 },
+  { name: "Qalyubia", arabicName: "القليوبية", lat: 30.459767, lon: 31.184199 },
+  { name: "Kafr El Sheikh", arabicName: "كفر الشيخ", lat: 31.110700, lon: 30.938800 },
+  { name: "Gharbia", arabicName: "الغربية", lat: 30.788471, lon: 31.001921 },
+  { name: "Monufia", arabicName: "المنوفية", lat: 30.597200, lon: 30.987600 },
+  { name: "Beheira", arabicName: "البحيرة", lat: 31.034084, lon: 30.468233 },
+  { name: "Beni Suef", arabicName: "بني سويف", lat: 29.067100, lon: 31.099400 },
+  { name: "Minya", arabicName: "المنيا", lat: 28.109900, lon: 30.750300 },
+  { name: "Asyut", arabicName: "أسيوط", lat: 27.180956, lon: 31.183683 },
+  { name: "Sohag", arabicName: "سوهاج", lat: 26.556952, lon: 31.694785 },
+  { name: "Qena", arabicName: "قنا", lat: 26.155100, lon: 32.716000 },
+  { name: "Luxor", arabicName: "الأقصر", lat: 25.698927, lon: 32.642097 },
+  { name: "Aswan", arabicName: "أسوان", lat: 24.090820, lon: 32.899420 },
+  { name: "Red Sea", arabicName: "البحر الأحمر", lat: 27.257376, lon: 33.812914 },
+  { name: "New Valley", arabicName: "الوادي الجديد", lat: 25.475300, lon: 30.558000 },
+  { name: "Matrouh", arabicName: "مطروح", lat: 31.352900, lon: 27.237250 },
+  { name: "North Sinai", arabicName: "شمال سيناء", lat: 31.131592, lon: 33.798437 },
+  { name: "South Sinai", arabicName: "جنوب سيناء", lat: 28.217000, lon: 33.625000 }
+];
+
+export default governorates;
